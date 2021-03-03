@@ -3,6 +3,8 @@ This folder contains the work for a project that optimizes bank marketing campai
 
 [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
+## Table of Contents
+
 Docs:
 * [Final Report](https://docs.google.com/document/d/1aIfiTC5OssufOpGzZcCWbuGsHG-4UszKcd2xjaJ7Fc8/edit)
 * [Presentation](https://docs.google.com/presentation/d/1R6zcAQ6s6sVrWypVouAwfSYL5-HnB6e5Qo_XYFaPqhc/edit?usp=sharing)
