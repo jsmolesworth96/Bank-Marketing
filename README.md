@@ -4,4 +4,4 @@ This folder contains the work for a project that optimizes the success of bank m
 [Bank Marketing Data Set](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing)
 
 Notebooks:
-* blah
+* [Exploratory Data Analysis](https://github.com/jsmolesworth96/Bank-Marketing/blob/main/Bank%20Marketing%20EDA%20and%20Data%20Wrangling%20(1).ipynb)
