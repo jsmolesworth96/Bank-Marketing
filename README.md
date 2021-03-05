@@ -7,7 +7,7 @@ This folder contains the work for a project that optimizes bank marketing campai
 
 Docs:
 * [Final Report](https://github.com/jsmolesworth96/Bank-Marketing/blob/main/Bank%20Marketing%20Project%20Report.pdf)
-* [Presentation](https://docs.google.com/presentation/d/1R6zcAQ6s6sVrWypVouAwfSYL5-HnB6e5Qo_XYFaPqhc/edit?usp=sharing)
+* [Presentation](https://github.com/jsmolesworth96/Bank-Marketing/blob/main/Bank%20Marketing%20Presentation.pdf)
 
 Notebooks:
 * [Exploratory Data Analysis](https://github.com/jsmolesworth96/Bank-Marketing/blob/main/Bank%20Marketing%20EDA%20and%20Data%20Wrangling%20(1).ipynb)
