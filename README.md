@@ -6,7 +6,7 @@ This folder contains the work for a project that optimizes bank marketing campai
 ## Table of Contents
 
 Docs:
-* [Final Report](https://docs.google.com/document/d/1aIfiTC5OssufOpGzZcCWbuGsHG-4UszKcd2xjaJ7Fc8/edit)
+* [Final Report](https://github.com/jsmolesworth96/Bank-Marketing/blob/main/Bank%20Marketing%20Project%20Report.pdf)
 * [Presentation](https://docs.google.com/presentation/d/1R6zcAQ6s6sVrWypVouAwfSYL5-HnB6e5Qo_XYFaPqhc/edit?usp=sharing)
 
 Notebooks:
